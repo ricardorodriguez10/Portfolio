@@ -1,0 +1,21 @@
+.aboutMe {
+    margin-top: 5em;
+}
+
+.aboutMe-container {
+    margin-left: 5em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+    line-height: 1.5;
+    
+}
+
+.aboutMe-description {
+   
+}
+
+.front-skills{
+    width: 20%;
+    height: 30%;
+}

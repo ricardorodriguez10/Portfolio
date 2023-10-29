@@ -22,7 +22,7 @@ const Me = () => {
                 <h1>
                 <span> Front-end Developer </span>
                 </h1>
-                <p>Front end developer who writes clean, elegant and efficient code</p>
+                <p>who writes clean, elegant and efficient code</p>
             </div>
             
             </div>
