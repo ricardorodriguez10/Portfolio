@@ -3,7 +3,7 @@ import "./About.css"
 
 const About = () => {
 return (
-    <section className="aboutMe">
+    <section id="about" className="aboutMe">
         <div className="row">
             <div className="col-12">
                 <div className="aboutMe-container">
@@ -17,7 +17,7 @@ return (
 But my passion for technology led me to study programming and I discovered a new world that I immediately fell in love with.</p>
 <br></br>
 <p>As a front-end developer I have done many projects that you can see here or on my github.
-I am a person who likes to constantly learn something as you can see, I also like to go to the gym in the mornings, read about Stoic philosophy, and although I am a nutritionist I like serrano ham as well, I live in Spain, what can I do?</p>
+I am a person who likes to constantly learn something as you can see, I also like to go to the gym in the mornings, read about stoic philosophy, and although I am a nutritionist I like serrano ham as well, I live in Spain, what can I do?</p>
                         </div>
                     </div>
 
